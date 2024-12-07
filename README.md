@@ -23,4 +23,4 @@
 3. Play the game by pressing keys and clicking on the color buttons.
 
 ```bash
-git clone https://github.com/your-username/simon-game.git
+git clone https://github.com/naz-rezaei/simon-game.git
